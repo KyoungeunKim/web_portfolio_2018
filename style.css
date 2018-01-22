@@ -1,0 +1,17 @@
+*{
+  font-family: "Helvetica Neue";
+  font-weight: 700;
+  background-color: hsl(340, 10%, 95%);
+  color: #000000;
+}
+
+h1{
+  kfont-size: 72px;
+  font-style: italic;
+  background-color:hsl(0, 100%, 50%);
+}
+
+p{
+  font-size: 36px;
+  background-colori:hsl(0,90%, 95%);
+}
